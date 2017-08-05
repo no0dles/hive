@@ -2,6 +2,8 @@
 
 docker-compose.yaml
 
+![Alt text](/services_screenshot.png "Services")
+
 ```yaml
 version: '3'
 
